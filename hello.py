@@ -1,1 +1,1 @@
-print("Hello, World! There is a new change in the code which I am doing now.")
+print("This is a new change for testing purposes.")
