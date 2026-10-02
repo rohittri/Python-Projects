@@ -1,2 +1,2 @@
 print("Hello Rohit!")
-print("My first CI Pipeline")
+print("CI Demo")
